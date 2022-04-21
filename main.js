@@ -228,13 +228,13 @@ function offEraser(){
 
 
 // Download funtionality
-let dload= document.querySelector(".dbtn")
+// let dload= document.querySelector(".dbtn")
 
-dload.addEventListener("mouseup",()=>{
-	const url = canvas.toDataURL();
-    dload.href = url;
-    dload.download = 'My Art.png';
-})
+// dload.addEventListener("mouseup",()=>{
+// 	const url = canvas.toDataURL();
+//     dload.href = url;
+//     dload.download = 'My Art.png';
+// })
 
 
 
